@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@TID1256REV0.1.0
+@TID1004REV0.0.1
 Feature: Riki Test
 
 	Scenario: my s
