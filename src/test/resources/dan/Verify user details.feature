@@ -1,4 +1,4 @@
-Feature: Buying items in shopping cart for many users
+Feature: Riki Test
 Background:
   Given payment security system is up
 
