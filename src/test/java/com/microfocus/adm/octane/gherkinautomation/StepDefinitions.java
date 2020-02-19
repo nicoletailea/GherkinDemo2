@@ -7,7 +7,7 @@ public class StepDefinitions {
     @Given("^the Google Chrome browser is open$")
     public void theGoogleChromeBrowserIsOpen() {
         System.out.println("The browser is open!");
-        assertTrue(false);
+        //assertTrue(false);
          System.out.println("The test worked!");
     }
 
@@ -25,7 +25,7 @@ public class StepDefinitions {
 
     @Given("a web browser is on the Google page")
     public void aWebBrowserIsOnTheGooglePage() throws Exception {
-        throw new Exception("exception in given");
+        //throw new Exception("exception in given");
          System.out.println("The test worked!");
     }
 
@@ -36,7 +36,7 @@ public class StepDefinitions {
 
     @Then("results for {string} are shown")
     public void resultsForAreShown(String arg0) throws Exception {
-        throw new Exception("exception!");
+        //throw new Exception("exception!");
          System.out.println("The test worked!");
         
     }
