@@ -26,7 +26,7 @@ public class StepDefinitions {
     @Given("a web browser is on the Google page")
     public void aWebBrowserIsOnTheGooglePage() throws Exception {
         throw new Exception("exception in given");
-         System.out.println("The test worked!");
+         //System.out.println("The test worked!");
     }
 
     @When("the search phrase {string} is entered")
