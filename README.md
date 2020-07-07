@@ -7,3 +7,4 @@ mvn  test -Dcucumber.options="c:\dev\hpaa\GherkinDemo2\src\test\resources\dan\Da
 fgdfdgf
 test 
 tested and verified 
+test
